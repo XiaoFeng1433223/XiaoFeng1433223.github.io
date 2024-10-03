@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #b4ffdd;
+}
+
+.heading {
+    border-bottom-style: double;
+    border-width: 20px;
+    border-color: #59d07e;
+    width: 100%;
+}
+
+#name {
+    font-size: 400%;
+    margin:0;
+    padding:0;
+    color: #2EB32B
+}
+
+.spicy-rice-regular {
+    font-family: "Spicy Rice", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 0px;
+    color: #29a674;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #2EB32B
+  }
+  
+
+p {
+    margin-top: 0px;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+
+.after_highschool {
+    width: 98%;
+    height: 25%;
+    font-size: 150%;
+    background-color: #c1fbd3;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #59d07e;
+    color: #29a674;
+}
+
+.hobbies {
+    width: 98%;
+    height: 20%;
+    font-size: 150%;
+    background-color: #c1fbd3;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #59d07e;
+    color: #29a674;
+}
+
+.cs {
+    width: 98%;
+    height: 20%;
+    font-size: 150%;
+    background-color: #c1fbd3;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #59d07e;
+    color: #29a674;
+}
+
+li {
+    font-size: 80%;
+}
+
+.lion {
+    font-size: 70%;
+}
+
+.description {
+    font-size: 80%;
+}
